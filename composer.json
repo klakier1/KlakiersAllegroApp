@@ -1,0 +1,19 @@
+{
+    "name": "klakier/allegro-app-1.0.0",
+    "description": "synchronizing products database with Allegro",
+    "authors": [
+        {
+            "name": "Lukasz Paleczek",
+            "email": "lukasz.paleczek@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Klakier\\": "Klakier/"
+        }
+    }
+}
